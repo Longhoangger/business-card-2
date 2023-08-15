@@ -1,0 +1,39 @@
+body   {
+    margin: 20px;
+    min-height: 10000px;
+    font-family:'Courier New', Courier, monospace
+}
+
+.avatar{
+    width: 150px;
+    height: 100%;
+
+}
+
+.card{
+    width: 343px;
+    padding: 20px;
+    border: 2px solid gray;
+    background-color: #181b1dc2;
+    display: flex;
+    justify-content: space-around;
+    margin: 200px auto ;
+    border-bottom: 6px solid #2b2839;
+}
+
+.text-box{
+    font-size: large;
+    text-align: center;
+    color: rgb(235, 229, 143);
+    padding: 0 10px;
+}
+
+.gray{
+    border: 3px solid #2b2839;
+}
+/* .pricing{
+    display: flex;
+    justify-content: space-around;
+} */
+
+
